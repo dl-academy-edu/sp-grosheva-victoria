@@ -1,2 +1,3 @@
-# sp-grosheva-victoria
-Учебный репозиторий для студентки Грошевой Виктории
+# Личный проект "Design Life Kids"
+* Студент [Грошева Виктория](https://t.me/zazazzzu)
+* Наставник [Печинов Сергей](https://t.me/SergeyPechinov)
